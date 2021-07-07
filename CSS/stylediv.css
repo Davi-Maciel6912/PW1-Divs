@@ -1,0 +1,63 @@
+#fundo{
+    background-color: gold;
+    width: 850px;
+    height: 1000px;
+    margin: auto;
+}
+#logo{
+    background: rgb(27, 27, 27);
+    color: red;
+    width: 850px;
+    height: 250px;
+    text-align: center;
+}
+#menu{
+    background: red;
+    color: white;
+    width: 850px;
+    height: 100px;
+    text-align: center;
+}
+.lanches{
+    background: orange;
+    width: 200px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    text-align: center;
+}
+#desclanc{
+    background: orange;
+    width: 200px;
+    height: 210px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: right;
+    text-align: center;
+}
+#caixa{
+    background: yellow;
+    width: 850px;
+    height: 230px;
+    float: left;
+    margin-top: 10px;
+}
+#complemento{
+    background: rgb(27, 27, 27);
+    color: orangered;
+    width: 850px;
+    height: 130px;
+    margin-top: 10px;
+    float: left;
+    text-align: center;
+}
+#rodape{
+    background: black;
+    color: orangered;
+    width: 850px;
+    height: 50px;
+    float: left;
+    text-align: center;
+}
